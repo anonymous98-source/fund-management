@@ -1,0 +1,9 @@
+add pngs at /resources/icon/
+1. edit.png
+2. lock.png
+
+add pngs at /resources
+
+1. cost-of-living.png
+2. money-management.png
+3. pension.png
